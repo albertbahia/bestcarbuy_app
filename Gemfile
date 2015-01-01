@@ -35,7 +35,7 @@ gem 'awesome_print'
 
 gem 'rails_12factor'
 
-gem 'backbars'
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
